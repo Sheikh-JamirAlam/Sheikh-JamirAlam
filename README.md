@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @Sheikh-JamirAlam
-- 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently learning ReactJs and Data Analysis
-- 💞️ I’m looking to collaborate on Front End Web Development
-- 📫 How to reach me Mail at alamjamir15@gmail.com
+[<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/base.svg">]()
+
+[<img alt="🦑" align="left" width="300px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.isocalendar.svg">]()
+
+<!-- [<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.lines.svg">]() -->
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.followup.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.languages.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.habits.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.activity.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.notable.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.stars.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sheikh-JamirAlam/Sheikh-JamirAlam/blob/main/metrics.plugin.topics.icons.svg">
