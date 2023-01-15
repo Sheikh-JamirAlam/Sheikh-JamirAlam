@@ -94,14 +94,15 @@ jobs:
           plugin_stars_limit: 3
           
       - name: 📌 Topics plugin
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_topics_mode: mastered
+          plugins_errors_fatal: yes
           
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
