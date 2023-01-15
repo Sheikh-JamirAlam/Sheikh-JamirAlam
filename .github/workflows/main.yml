@@ -19,7 +19,7 @@ jobs:
       - name: 🎟️ Follow-up plugin
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.user.svg
+          filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
@@ -39,7 +39,7 @@ jobs:
       - name: 💡 Habits plugin
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -58,7 +58,7 @@ jobs:
       - name: 🈷️ Languages plugin (detailed)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.recent.svg
+          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -99,7 +99,7 @@ jobs:
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
