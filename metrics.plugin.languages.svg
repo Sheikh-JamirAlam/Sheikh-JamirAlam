@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.9895838713565" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.9895838713565" y="0" width="22.28999879482809" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="457.2795826661846" y="0" width="2.7204173338154023" height="8" fill="#fbb03b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.87691843204345" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.87691843204345" y="0" width="19.509600247284546" height="8" fill="#fbb03b"/>
+                    <rect mask="url(#languages-bar)" x="441.386518679328" y="0" width="18.613481320671983" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,24 +35,10 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>109 kB</div>
-                                <div>94.56%</div>
+                                <div>127 kB</div>
+                                <div>91.71%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#fbb03b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Motoko
-                            </div>
-                            <small>
-                                <div>687 bytes</div>
-                                <div>0.59%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -62,7 +48,21 @@
                             </div>
                             <small>
                                 <div>5.63 kB</div>
-                                <div>4.85%</div>
+                                <div>4.05%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#fbb03b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Motoko
+                            </div>
+                            <small>
+                                <div>5.90 kB</div>
+                                <div>4.24%</div>
                             </small>
                         </div>
                     </section>
