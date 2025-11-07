@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sheikh Jamir Alam!
-🔭 I’m currently making portfolio projects.<br>🌱 I’m currently learning Back-end Technologies.<br>🤝 I’m looking for Front-end Internship opportunities.<br>🥅 2025 Goals: Gather experience and get into distributed systems and blockchain.<br>⚡ Fun fact: I updated this readme while listening to Coldplay.
+🔭 I’m currently making portfolio projects.<br>🌱 I’m currently learning Back-end Technologies.<br>🤝 I’m looking for Full-stack opportunities.<br>🥅 2025 Goals: Gather experience and get into distributed systems and blockchain.<br>⚡ Fun fact: I updated this readme while listening to Coldplay.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-jamiralam&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-jamiralam" /> </p>
 
